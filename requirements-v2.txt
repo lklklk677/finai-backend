@@ -1,0 +1,8 @@
+# FinAI Analyzer Pro - Python 依賴包
+# 版本: 2025-10-05 最新穩定版
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+gunicorn==21.2.0
+pydantic==2.4.2
+python-multipart==0.0.6
